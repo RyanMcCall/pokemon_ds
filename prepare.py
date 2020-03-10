@@ -1,4 +1,4 @@
-import pandas as import pd
+import pandas as pd
 from acquire import acquire_data
 
 def prepare_data():
